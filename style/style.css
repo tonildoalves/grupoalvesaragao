@@ -53,7 +53,7 @@ box-sizing: border-box;
 }
 
 .apresentacao__conteudo{
-    width: 50%
+    width: 50%;
     display: 50%;
     flex-direction: column;
     gap: 2rem;
